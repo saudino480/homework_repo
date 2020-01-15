@@ -1,1 +1,1 @@
-Git is good
+Some changes to a.txt
